@@ -5,4 +5,5 @@
 🎨Making video about Fitness,Vlog,Productivity on [Youtube](https://www.youtube.com/@sachingusain6609)<br/>
 💭Currently learning about Web Devlopment and Army<br/>
 
-[!Gusainji's github stats](https://github-readme-stats.vercel.app/api?username=sachingusain)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusainji)](https://github.com/anuraghazra/github-readme-stats)
+
