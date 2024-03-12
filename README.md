@@ -29,3 +29,31 @@
 [![](https://visitcount.itsvg.in/api?id=Gusainji&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+# 💻 Featured YouTube Videos
+
+<!--BEGIN YOUTUBE CARDS -->
+
+
+[![Fitness Shorts](https://ytcards.demolab.com/?id=JsBmga2nDmU&title=Fitness+Shorts&lang=en&timestamp=1693888824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_line=1&width=250&border_radius=5&duration=436 "Fitness Shorts")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGp0)
+
+
+[![Fitness Shorts](https://ytcards.demolab.com/?id=BawA53iHr6g&title=Fitness+Shorts&lang=en&timestamp=1692506424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_line=1&width=250&border_radius=5&duration=436 "Fitness Shorts")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGp0)
+
+[![Fitness Shorts](https://ytcards.demolab.com/?id=MbPo6mVmxEM&title=Fitness+Shorts&lang=en&timestamp=1690087224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_line=1&width=250&border_radius=5&duration=436 "Fitness Shorts")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGp0)
+
+[![Fitness Shorts](https://ytcards.demolab.com/?id=4eGCXIyf8mg&title=Fitness+Shorts&lang=en&timestamp=1682829624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_line=1&width=250&border_radius=5&duration=436 "Fitness Shorts")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGp0)
+
+[![Fitness Shorts](https://ytcards.demolab.com/?id=fokKbigx2do&title=Fitness+Shorts&lang=en&timestamp=1681360824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_line=1&width=250&border_radius=5&duration=436 "Fitness Shorts")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGp0)
+
+[![Fitness Shorts](https://ytcards.demolab.com/?id=6gdM9lqMLfw&title=Fitness+Shorts&lang=en&timestamp=1698727224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_line=1&width=250&border_radius=5&duration=436 "Fitness Shorts")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGp0)
+
+
+[![Fitness Shorts](https://ytcards.demolab.com/?id=i9PrgdkPfeU&title=Fitness+Shorts&lang=en&timestamp=1697172024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_line=1&width=250&border_radius=5&duration=436 "Fitness Shorts")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGp0)
+
+
+
+
